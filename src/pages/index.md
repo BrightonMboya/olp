@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "Astract"
+title: "One Laptop Per Child"
 description: "Lorem ipsum dolor sit amet"
 updatedDate: "December 2 2022"
 heroImage: "/olp.jpeg"
